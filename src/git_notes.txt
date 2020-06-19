@@ -1,1 +1,12 @@
+
 this is a test file for checking  conflict .. 
+
+•	Version Control System
+o	To maintain all your code in Central Repository
+o	Versioning to keep track of the changes
+o	Parallel Development
+•	Centralized VCS
+o	SVN
+•	Decentralized VCS OR Distributed VCS
+o	git
+
